@@ -1,4 +1,9 @@
-```python
+---
+layout: single
+title: "첫 번째 텐서플로우(Tensorflow) 스터디입니다."
+---
+
+python
 !pip install tensorflow
 ```
 
